@@ -1,9 +1,5 @@
 # Liela
 
-
-**More code and documentation will be pushed soon.**
-
-
 - "Liela" is a Bot on Facebook messenger platform.
 
 - Written in Java, It's uses MYSQL for storage/buffer.
@@ -21,3 +17,5 @@
 * Replier
 * Product Solver
 * Runnable
+
+**More code and documentation will be pushed soon.**
